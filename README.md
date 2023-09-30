@@ -7,15 +7,15 @@
 
 
 
-- 🔭 I’m currently working on [JayBeep Art](https://resilient-frangollo-3c731b.netlify.app/)
+- 🔭 I’m currently working on [JayBeep Art.](https://resilient-frangollo-3c731b.netlify.app/)
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**.
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/beeplovsharma?tab=repositories)
+- 👨‍💻 All of my projects are available [here.](https://bit.ly/beeplov)
 
-- 💬 Ask me about **Frontend, Cyber Security, Photography, Graphics Designing & UI/UX**
+- 💬 Ask me about **Frontend, Cyber Security, Photography, Graphics Designing & UI/UX.**
 
-- 📫 How to reach me **beeplovsharma@gmail.com**
+- 📫 How to reach me ? [Click Here](**beeplovsharma@gmail.com**)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
