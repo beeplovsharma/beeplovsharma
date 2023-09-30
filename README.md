@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [bit.ly/beeplov](bit.ly/beeplov)
+- 👨‍💻 All of my projects are available at [here](https://github.com/beeplovsharma?tab=repositories)
 
 - 💬 Ask me about **Frontend, Cyber Security, Photography, Graphics Designing, UI/UX**
 
