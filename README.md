@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [JayBeep Art.](https://resilient-frangollo-3c731b.netlify.app/)
+- 🔭 I’m currently working in Blinkit
 
 - 🌱 I’m currently learning **Backend Development**.
 
