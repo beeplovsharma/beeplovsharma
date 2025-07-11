@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in Blinkit
 
-- 🌱 I’m currently learning **Backend Development**.
+- 🌱 Learning **Backend Development**.
 
 - 👨‍💻 All of my projects are available [here.](https://bit.ly/beeplov)
 
