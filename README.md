@@ -9,7 +9,7 @@
   
 
 - 🎓 Software Engineer in the making
-- 🛠️ Currently working as an **SDE Intern** at [Blinkit](https://www.blinkit.com/)
+- 🛠️ Currently working as an **SDE** at [Blinkit](https://www.blinkit.com/)
 - 💻 I love crafting **interactive, scalable, and modern web apps**
 - 💡 Always curious to learn & explore new tech
   
