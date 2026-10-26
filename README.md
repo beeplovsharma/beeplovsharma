@@ -9,18 +9,6 @@
 
 ---
 
-👨‍💻 Software Development Engineer @ **Blinkit**
-
-Building products, solving engineering problems, and making web applications faster and more reliable.
-
-- ⚛️ Passionate about frontend engineering and full-stack development
-- 🧠 Interested in scalable systems, clean code, and performance optimization
-- 🔭 Always experimenting with new technologies and better ways to build
-- 💬 React, TypeScript, JavaScript & web engineering
-- ⚡ Tabs over spaces. Always.
-
----
-
 <table>
 <tr>
 <td valign="top">
@@ -51,6 +39,7 @@ Currently Exploring:
 
 
 </td>
+<td width="40"></td>
 <td width="300" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/beeplovsharma/beeplovsharma/main/output/bonsai-growth.gif" width="280" alt="git-bonsai grown from my commit history" />
@@ -65,6 +54,7 @@ Currently Exploring:
 
 ## 🎨 Frontend
 
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -73,9 +63,11 @@ Currently Exploring:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
 ## ⚙️ Backend & Databases
 
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -86,13 +78,16 @@ Currently Exploring:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
 
 ## ☁️ DevOps & Tools
 
+<p align="center">
 <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
 
 ---
 
