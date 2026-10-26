@@ -1,0 +1,28 @@
+name: gravity
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+jobs:
+  gravity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: flycran/github-gravity@v1
+        with:
+          username: beeplovsharma
+          text: Beeplov Sharma
+          output-path: deploy/gravity.svg
+          shape: square
+          font-size: 64
+          background-color: '#0D0D11'
+          text-color: '#F3F4F6'
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          publish_branch: output
+          keep_files: false
+          force_orphan: true
