@@ -34,6 +34,7 @@ Areas of Interest:
 Currently Exploring:
   - HLD/LLD
   - Red Teaming
+  - Cinematography
 ```
 
 <p align="center">
