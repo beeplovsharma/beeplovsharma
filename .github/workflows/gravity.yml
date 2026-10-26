@@ -15,7 +15,7 @@ jobs:
           username: beeplovsharma
           text: Beeplov Sharma
           output-path: deploy/gravity.svg
-          shape: square
+          shape: circle
           font-size: 64
           background-color: '#0D0D11'
           text-color: '#F3F4F6'
