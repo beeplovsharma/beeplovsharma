@@ -108,10 +108,10 @@ Currently Exploring:
 
 <br />
 
-## 🎬 Explore my creative side
+### 🎬 Explore my creative side
 
 <p align="center">
-<a href="https://instagram.com/beeplomatic"><img src="https://img.shields.io/badge/@beeplomatic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@beeplomatic on Instagram" /></a>
+<a href="https://instagram.com/beeplomatic"><img src="https://img.shields.io/badge/@beeplomatic-E4405F?style=flat&logo=instagram&logoColor=white" alt="@beeplomatic on Instagram" /></a>
 </p>
 
 <p align="center"><b>Always curious. Always building.</b></p>
