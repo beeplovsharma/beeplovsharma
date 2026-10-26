@@ -18,23 +18,26 @@
 ```yaml
 Name: Beeplov Sharma
 
+Education:
+  B.Tech @ NIT Jamshedpur
+
 Current Role:
-  Software Development Engineer @ Blinkit
+  Software Developer @ Blinkit
 
 Main Stack:
   - ReactJS
   - Golang
 
 Areas of Interest:
-  - Frontend Engineering
-  - Full Stack Development
+  - Development & System Design
   - Scalable Systems
-  - Clean Code
+  - Cybersecurity & Networking
   - Performance Optimization
 
 Currently Exploring:
-  - New technologies
-  - Better ways to build
+  - HLD/LLD
+  - Read Teaming
+
 ```
 
 
