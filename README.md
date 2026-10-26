@@ -11,8 +11,6 @@
 
 ## 👨🏻‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/beeplovsharma/beeplovsharma/main/output/bonsai-growth.gif" width="340" alt="git-bonsai grown from my commit history" />
-
 ```yaml
 Name: Beeplov Sharma
 
@@ -37,7 +35,9 @@ Currently Exploring:
   - Red Teaming
 ```
 
-<br clear="right" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/beeplovsharma/beeplovsharma/main/output/bonsai-growth.gif" width="340" alt="git-bonsai grown from my commit history" />
+</p>
 
 ---
 
