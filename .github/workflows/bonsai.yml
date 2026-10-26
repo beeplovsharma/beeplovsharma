@@ -10,4 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: egorthinks/git-bonsai@v1
+      - name: Grow Git Bonsai
+        uses: egorthinks/git-bonsai@v1
