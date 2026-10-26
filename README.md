@@ -72,7 +72,7 @@ Currently Exploring:
 ### 🛡️ Cybersecurity
 
 <p align="left">
-<img src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge" alt="Network Security" /> <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge" alt="OWASP Top 10" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" alt="Nmap" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge" alt="OWASP Top 10" /> <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge" alt="Nmap" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
 ---
