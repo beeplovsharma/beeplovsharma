@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: flycran/github-gravity@v1
+      - uses: beeplovsharma/github-gravity@main
         with:
           username: beeplovsharma
           text: Beeplov Sharma
