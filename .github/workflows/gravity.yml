@@ -19,7 +19,11 @@ jobs:
           font-size: 64
           background-color: '#0D0D11'
           text-color: '#F3F4F6'
-      - uses: peaceiris/actions-gh-pages@v4
+      # contribution API sometimes returns nothing on CI; skip deploy so the last good SVG stays live
+      - id: check
+        run: grep -q '<circle' deploy/gravity.svg && echo "ok=true" >> "$GITHUB_OUTPUT" || echo "::warning::no contributions fetched, keeping last good SVG"
+      - if: steps.check.outputs.ok == 'true'
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./deploy
